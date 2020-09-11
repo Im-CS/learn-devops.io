@@ -1,6 +1,6 @@
 ### Create your first Maven Build
 * Jenkins -> New Item -> Enter an item name: DevOps-First-Maven-Build
-* Seelct -> Maven project
+* Select -> Maven project
 * Then click -> Ok
 * copy this git repo url : https://github.com/blrk/devops-project.git
 * In the 	Description type : DevOps first maven build
